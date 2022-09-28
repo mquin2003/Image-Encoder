@@ -16,3 +16,5 @@ Encoded Message: "Mjqqt1%mt|%fwj%~tz%itnsl%ytif~D"
 Image with encoded message embedded within the transparency value of the pixels:
 
 ![Unknown](https://user-images.githubusercontent.com/14097239/192821535-2863e77c-b4c0-4e99-93c3-2bee35a862b5.png)
+
+This final image looks almost identical to the original.
